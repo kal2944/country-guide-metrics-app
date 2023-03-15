@@ -22,7 +22,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖Country-Guid(Metrics webapp) <a name="about-project"></a>
+# 📖React capstone project -Country-Guid (Metrics webapp) <a name="about-project"></a>
 
 > "Country-Guid" is an application that will allow the users to search and get information on specific country/continent around the world.
 
