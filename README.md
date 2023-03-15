@@ -24,7 +24,7 @@
 
 # 📖Country-Guid(Metrics webapp) <a name="about-project"></a>
 
-> "Country-Guid" is an application will allow users search and get information on specific country/continent around the world.
+> "Country-Guid" is an application that will allow the users to search and get information on specific country/continent around the world.
 
 
 
@@ -57,7 +57,7 @@
 ## 🚀 Project Details
 
 - Solo Project
-  - [Kalkidan Daniel]()
+  - [Kalkidan Daniel](https://github.com/kal2944/country-guide-metrics-app.git)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple example steps.
 -Reach to following Github URL:
 
 ```
-https://github.com/kal2944/book-store
+https://github.com/kal2944/country-guide-metrics-app.git
 
 ```
 
@@ -79,7 +79,7 @@ https://github.com/kal2944/book-store
 -Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
 
 ```
-$ git clone {}
+$ git clone {https://github.com/kal2944/country-guide-metrics-app.git}
 ```
 
 # Install Dependencies(with following Command)
