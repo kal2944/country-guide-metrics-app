@@ -201,7 +201,7 @@ Give a ⭐️ if you like this project!
 
 - Thanks to [Microverse](https://www.microverse.org/) for giving this opportunity to learn ...
 - Code Reviewers & Coding Partners.
-- Hat tip to anyone whose code was used.
+- Also would like to Thank [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>). for this design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
