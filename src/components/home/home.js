@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import './home.css';
 import { BiWorld } from 'react-icons/bi';
 import CountriesList from './countriesList';
 import MyApi from '../../redux/api';
@@ -51,11 +50,6 @@ const Home = () => {
       )}
     </div>
   );
-
-  // <div>
-  //   <h2 className="homi">Home page</h2>
-  //   <Link to="/detailpages">click me</Link>
-  // </div>
 };
 
 export default Home;
