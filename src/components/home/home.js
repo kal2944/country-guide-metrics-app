@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import './home.css';
 import { BiWorld } from 'react-icons/bi';
 import CountriesList from './countriesList';
 import MyApi from '../../redux/api';

@@ -2,8 +2,6 @@ import React from 'react';
 import { AiOutlineArrowLeft } from 'react-icons/ai';
 import { useLocation, useNavigate } from 'react-router-dom';
 
-import './detail.css';
-
 const Detail = () => {
   const location = useLocation();
   const navigate = useNavigate();
